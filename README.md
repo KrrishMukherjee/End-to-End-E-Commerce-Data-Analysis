@@ -3,7 +3,7 @@ The file describes a data analytics project that analyzes a large e-commerce dat
 ## Power BI Dashboard
 
 ### Sales Performance Dashboard
-![Sales Dashboard](images/Sales Analysis.png)
+![Sales Dashboard](Sales Analysis.png)
 
 ### Traffic Source Analysis
 ![Traffic Dashboard](images/Triaffic Analysis.png)
