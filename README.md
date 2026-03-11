@@ -6,4 +6,4 @@ The file describes a data analytics project that analyzes a large e-commerce dat
 ![Sales Dashboard](Sales%20Analysis.png)
 
 ### Traffic Source Analysis
-![Traffic Dashboard](images/Triaffic%20Analysis.png)
+![Traffic Dashboard](Triaffic%20Analysis.png)
